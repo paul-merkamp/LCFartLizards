@@ -4,6 +4,6 @@ namespace LCFartLizards
     {
         public const string PLUGIN_GUID = "LCFartLizards";
         public const string PLUGIN_NAME = "LCFartLizards";
-        public const string PLUGIN_VERSION = "1.0.0";
+        public const string PLUGIN_VERSION = "1.1.0";
     }
 }
