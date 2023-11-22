@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Spore lizards fart instead")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14999a3acc53a65f93b8ac4c914ba9b53d02d84f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LCFartLizards")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LCFartLizards")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
